@@ -33,7 +33,7 @@ local RayfieldLibrary = {
 			NotificationActionsBackground = Color3.fromRGB(0,0,0),
 
 			TabBackground = Color3.fromRGB(128, 0, 128),
-			TabStroke = Color3.fromRGB(85, 85, 85),
+			TabStroke = Color3.fromRGB(8128, 0, 128),
 			TabBackgroundSelected = Color3.fromRGB(128, 0, 128),
 			TabTextColor = Color3.fromRGB(240, 240, 240),
 			SelectedTabTextColor = Color3.fromRGB(50, 50, 50),
@@ -73,9 +73,9 @@ local RayfieldLibrary = {
 
 			TabBackground = Color3.fromRGB(220, 220, 220),
 			TabStroke = Color3.fromRGB(112, 112, 112),
-			TabBackgroundSelected = Color3.fromRGB(0, 142, 208),
-			TabTextColor = Color3.fromRGB(240, 240, 240),
-			SelectedTabTextColor = Color3.fromRGB(50, 50, 50),
+			TabBackgroundSelected = Color3.fromRGB(128, 0, 128),
+			TabTextColor = Color3.fromRGB(128, 0, 128),
+			SelectedTabTextColor = Color3.fromRGB(128, 0, 128),
 
 			ElementBackground = Color3.fromRGB(198, 198, 198),
 			ElementBackgroundHover = Color3.fromRGB(230, 230, 230),
@@ -95,7 +95,7 @@ local RayfieldLibrary = {
 			ToggleEnabledOuterStroke = Color3.fromRGB(0, 170, 0),
 			ToggleDisabledOuterStroke = Color3.fromRGB(170, 0, 0),
 
-			InputBackground = Color3.fromRGB(31, 159, 71),
+			InputBackground = Color3.fromRGB(128, 0, 128),
 			InputStroke = Color3.fromRGB(19, 65, 31),
 			PlaceholderColor = Color3.fromRGB(178, 178, 178)
 		}
