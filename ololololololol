@@ -56,8 +56,8 @@ local RayfieldLibrary = {
 			ToggleEnabledOuterStroke = Color3.fromRGB(100, 100, 100),
 			ToggleDisabledOuterStroke = Color3.fromRGB(65, 65, 65),
 
-			InputBackground = Color3.fromRGB(30, 30, 30),
-			InputStroke = Color3.fromRGB(65, 65, 65),
+			InputBackground = Color3.fromRGB(128, 0, 128),
+			InputStroke = Color3.fromRGB(128, 0, 128),
 			PlaceholderColor = Color3.fromRGB(178, 178, 178)
 		},
 		Light = {
@@ -75,13 +75,13 @@ local RayfieldLibrary = {
 			TabStroke = Color3.fromRGB(112, 112, 112),
 			TabBackgroundSelected = Color3.fromRGB(128, 0, 128),
 			TabTextColor = Color3.fromRGB(128, 0, 128),
-			SelectedTabTextColor = Color3.fromRGB(128, 0, 128),
+			SelectedTabTextColor = Color3.fromRGB(128, 0, 128,
 
-			ElementBackground = Color3.fromRGB(198, 198, 198),
-			ElementBackgroundHover = Color3.fromRGB(230, 230, 230),
-			SecondaryElementBackground = Color3.fromRGB(136, 136, 136), -- For labels and paragraphs
-			ElementStroke = Color3.fromRGB(180, 199, 97),
-			SecondaryElementStroke = Color3.fromRGB(40, 40, 40), -- For labels and paragraphs
+			ElementBackground = Color3.fromRGB(128, 0, 128),
+			ElementBackgroundHover = Color3.fromRGB(128, 0, 128),
+			SecondaryElementBackground = Color3.fromRGB(128, 0, 128), -- For labels and paragraphs
+			ElementStroke = Color3.fromRGB(128, 0, 128),
+			SecondaryElementStroke = Color3.fromRGB(128, 0, 128), -- For labels and paragraphs
 
 			SliderBackground = Color3.fromRGB(31, 159, 71),
 			SliderProgress = Color3.fromRGB(31, 159, 71),
